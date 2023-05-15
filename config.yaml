@@ -1,0 +1,6 @@
+args:
+  dataset_name: "zjkarina/matreshka"
+  batch_size: 3
+  lr: 3e-4
+model:
+  model_name_or_path: "/mnt/opt/alexw/Kar/chatbot_saiga_dataset/instruct_rugptlarge"
